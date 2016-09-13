@@ -1,0 +1,27 @@
+﻿[{
+	"name": "Recurso1",
+	"desc": "Executando",
+	"values": [{
+		"from": "/Date(1473779380000)/",
+		"to": "/Date(1473790180000)/",
+		"label": "DX0001",
+		"customClass": "ganttRed"
+	}]
+}, {
+	"desc": "Programado",
+	"values": [{
+		"from": "/Date(1473790180000)/",
+		"to": "/Date(1473800980000)/",
+		"label": "DX002",
+		"customClass": "ganttBlue"
+	}]
+}, {
+	"name": "Recurso2",
+	"desc": "Programado",
+	"values": [{
+		"from": "/Date(1473800980000)/",
+		"to": "/Date(1473811780000)/",
+		"label": "DX003",
+		"customClass": "ganttGreen"
+	}]
+}] 
